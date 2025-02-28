@@ -64,6 +64,7 @@ WE WILL COVER UP TO PHASE 3 INTO REPOSITORY
 ![Doodle Sketch Roadmap Timeline Diagram Brainstorm](https://github.com/user-attachments/assets/0baae154-3fbb-4332-9ce7-383891639a80)
 
 phase 1: PART-1
+**https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/PHASE_1.ipynb**
 Fundamentals of python 
 syntax and input()
 variables and types 
