@@ -65,15 +65,27 @@ WE WILL COVER UP TO PHASE 3 INTO REPOSITORY
 
 phase 1: PART-1
 **https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/PHASE_1.ipynb**
+
 Fundamentals of python 
+
 syntax and input()
+
 variables and types 
+
 loops
+
 functions
+
 PART-2 
-DATA STRUCTURES 
+
+
+**DATA STRUCTURES**
+
 LISTS
+
 SETS 
+
 TUPLES
+
 Dictionaries
 
