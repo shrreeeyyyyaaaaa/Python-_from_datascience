@@ -1,7 +1,7 @@
 # Python-_for_datascience
 Basics of python which are required for  Data Science
 
-## what is python ? 
+## What is python ? 
 Python is a popular and easy-to-use programming language that’s great for both beginners and experienced developers. It was created by Guido van Rossum and released in 1991. Python is known for being simple, readable, and versatile, making it useful for many types of projects.
 
 Here’s why people love Python:
@@ -24,7 +24,7 @@ Here’s why people love Python:
 
 Because it’s so flexible, Python is used for almost everything—building websites, analyzing data, automating tasks, creating AI, and much more! 🚀
 
-## why datascience in python  ? why not any other programming lanugage ?
+## Why datascience in python  ? why not any other programming lanugage ?
 
 Python is the go-to language for data science, and for good reason! Here’s why so many data scientists choose Python over other programming languages:  
 
@@ -55,3 +55,11 @@ Python is the go-to language for data science, and for good reason! Here’s why
 **Handles Big Data** – Python works well with big data tools, making it easier to process and analyze huge amounts of information.  
 
 Other languages like R, Java, and Scala also have their strengths—R is great for statistics, for example—but Python’s mix of simplicity, versatility, and powerful tools makes it the top choice for most data scientists. 
+
+
+## ROADMAP FOR THIS REPO
+
+WE WILL COVER UP TO PHASE 3 INTO REPOSITORY
+
+![Doodle Sketch Roadmap Timeline Diagram Brainstorm](https://github.com/user-attachments/assets/0baae154-3fbb-4332-9ce7-383891639a80)
+
