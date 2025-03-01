@@ -81,7 +81,7 @@ PART-2
 
 **DATA STRUCTURES**
 
-LISTS
+LISTS-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/LISTS.ipynb
 
 SETS 
 
