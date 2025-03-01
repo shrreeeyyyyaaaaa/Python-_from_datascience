@@ -83,14 +83,19 @@ PART-2
 
 **LISTS**-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/LISTS.ipynb
 
-**SETS**-
-
 **Mutable:** You can change a list after it has been created. This includes adding, removing, or changing elements.
 
 
 **Indexed:** Lists are indexed, allowing you to access items based on their position, starting from 0.
 
-**TUPLES**-
+**SETS**-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/commit/125a7dfb8f30cc9ea793e6ee144af6d038603bc6
+
+**Unordered:** The items in a set do not maintain any specific order, meaning that you cannot index sets like you can with lists.
+
+**Mutable:** Sets can be modified; you can add or remove items after the set has been created.
+
+
+**TUPLES**-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/Tuples.ipynb
 
 **Ordered**: Tuples maintain the order of elements, which means the items can be accessed by their position or index. The first item has an index of 0.
 
