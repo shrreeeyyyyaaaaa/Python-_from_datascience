@@ -81,11 +81,28 @@ PART-2
 
 **DATA STRUCTURES**
 
-LISTS-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/LISTS.ipynb
+**LISTS**-https://github.com/shrreeeyyyyaaaaa/Python-_from_datascience/blob/main/LISTS.ipynb
 
-SETS 
+**SETS**-
 
-TUPLES
+**Mutable:** You can change a list after it has been created. This includes adding, removing, or changing elements.
 
-Dictionaries
+
+**Indexed:** Lists are indexed, allowing you to access items based on their position, starting from 0.
+
+**TUPLES**-
+
+**Ordered**: Tuples maintain the order of elements, which means the items can be accessed by their position or index. The first item has an index of 0.
+
+
+**Immutable**: Once a tuple is created, its content cannot be changed. You cannot add, remove, or modify items in a tuple.
+
+
+**Heterogeneous**: Tuples can store items of different data types (e.g., integers, strings, objects, other tuples).
+
+
+**Support for Nested Structures**: Tuples can contain other tuples, lists, or any other data type, allowing for complex data structures.
+
+
+**Dictionaries**
 
